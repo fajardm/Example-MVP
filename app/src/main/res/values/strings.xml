@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP-Example</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_button_login">Login</string>
+
+    <string name="error_null_username">Username can not empty</string>
+    <string name="error_null_password">Password can not empty</string>
+</resources>
